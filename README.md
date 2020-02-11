@@ -11,14 +11,13 @@ This workshop walks participants through majors concepts critical for reverse en
 
 # Directory structure
 > Lab directories all contain a similar structure.
-
+# Lab 1
 ```
-lab-#.#/
-├── answer
-│   └── answer-#.#.js
-├── test
-│   └── test.js
-├── work
-│   └── lab-#.#.js
-└── package.json`
+develop
+├── config
+│   └── middleware
+│                 └── isAuthenticated.js           
+├── passport
+│   └── passport.js
+└── config.json`
 ```
