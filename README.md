@@ -20,6 +20,8 @@ develop
 ├── passport
 │   └── passport.js
 └── config.json
+└── package.json
+└── server.js
 ```
 > Lab 2
 ```
@@ -41,4 +43,12 @@ public
 │             └── signup.js
 ├── stylesheets
 │   └── style.css
+```
+> Lab 4
+```
+routes
+├── api
+│   └── api-routes.js        
+├── html
+│   └── html-routes.js
 ```
