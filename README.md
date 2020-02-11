@@ -52,3 +52,8 @@ routes
 ├── html
 │   └── html-routes.js
 ```
+# Setup
+Use npm install within each lab to install the lab's dependencies.
+```
+$ npm install
+```
