@@ -7,7 +7,7 @@ This workshop walks participants through majors concepts critical for reverse en
 
 # Labs
 
-> This lab content is located at (GITHUB LINK)
+> This lab content is located at https://github.com/Ismelfigueroa/Homework-Unit-14.git
 
 # Directory structure
 > Lab directories all contain a similar structure.
