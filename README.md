@@ -20,3 +20,14 @@ lab-#.#/
 ├── work
 │   └── lab-#.#.js
 └── package.json
+Directory structure
+Lab directories all contain a similar structure.
+
+lab-#.#/
+├── answer
+│   └── answer-#.#.js
+├── test
+│   └── test.js
+├── work
+│   └── lab-#.#.js
+└── package.json
