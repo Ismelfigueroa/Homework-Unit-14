@@ -59,15 +59,15 @@ $ npm install
 ```
 # Tests
 Run tests with the command:
-
+```
 $ node server.js
-
+```
 ## Prerequisites
--node.js
--npm
--Visual Studio code
--Chrome
--GitHub
+- node.js
+- npm
+- Visual Studio code
+- Chrome
+- GitHub
 
 # Helpful links
 -https://en.wikipedia.org/wiki/User_story#Common_templates
