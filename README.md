@@ -11,7 +11,7 @@ This workshop walks participants through majors concepts critical for reverse en
 
 # Directory structure
 > Lab directories all contain a similar structure.
-# Lab 1
+** **Lab 1
 ```
 develop
 ├── config
@@ -19,5 +19,5 @@ develop
 │                 └── isAuthenticated.js           
 ├── passport
 │   └── passport.js
-└── config.json`
+└── config.json
 ```
