@@ -10,7 +10,7 @@ This workshop walks participants through majors concepts critical for reverse en
 This lab content is located at (GITHUB LINK)
 
 # Directory structure
-__Lab directories all contain a similar structure.
+** Lab directories all contain a similar structure.
 
 lab-#.#/
 ├── answer
