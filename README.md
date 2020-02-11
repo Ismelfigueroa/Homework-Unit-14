@@ -70,4 +70,4 @@ $ node server.js
 - GitHub
 
 # Helpful links
--https://en.wikipedia.org/wiki/User_story#Common_templates
+- https://en.wikipedia.org/wiki/User_story#Common_templates
