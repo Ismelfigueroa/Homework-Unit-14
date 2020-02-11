@@ -57,3 +57,13 @@ Use npm install within each lab to install the lab's dependencies.
 ```
 $ npm install
 ```
+# Tests
+Run tests with the command:
+
+$ node server.js
+## Prerequisites
+node.js
+npm
+Visual Studio code
+Chrome
+git
